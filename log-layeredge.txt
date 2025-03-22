@@ -760,3 +760,20 @@
 [15:18:05 | 22-03-2025] Wallet Address: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc
 [15:18:05 | 22-03-2025] Node Points: 727854
 [15:18:05 | 22-03-2025] Last Claim Point: 21/03/2025 08:19:56
+[19:27:44 | 22-03-2025] Wallet Address: 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc
+[19:27:44 | 22-03-2025] Node Points: 727854
+[19:27:44 | 22-03-2025] Last Claim Point: 21/03/2025 08:19:56
+[19:27:54 | 22-03-2025] 🚨 Failed to claim points for 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[19:27:55 | 22-03-2025] 🚨 Failed to start node for 0x3A64737AC4E9807144C903FdbDB239475D4Ea6fc: [object Object]
